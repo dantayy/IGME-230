@@ -76,3 +76,4 @@ being said, I'd like to look into libraries that could handle reading songs and 
 
 ## About the Author
 
+My name is Nicholas Mercadante, and At the time of writing, I am a 2nd year Game Design and Development at the Rochester Institute of Technology. I'm proficient in C# and HTML/CSS, and like to mess around in level editors such as Unreal or Unity.
