@@ -38,8 +38,8 @@ Hopefully I'll be able to code this project so that it'll work on both desktop a
 ### Sound
   * The key to this game.  Music will be either preset tunes with timestamps that the game will use to know when power-ups  
   should do critical damage, or if I'm feeling really ambitious I'd like to let players put in their own music that a script
-  could read the waveform of and auto-generate timestamps on the fly.  Sound effects for the player-character would probably  
-  be retro, but honestly it'll come down to what clashes with the music least.
+  could read the waveform of and auto-generate timestamps on the fly.  Sound effects for the player-character & enemies  
+  would probably be retro, but honestly it'll come down to what clashes with the music least.
 
 ## Gameplay
 
