@@ -61,11 +61,18 @@ Hopefully I'll be able to code this project so that it'll work on both desktop a
 
 ## Screenshots
 
+![Windows Media Player Visualizer, hopefully can get something like this working in js for a sweet active background][ss1]
+![Audiosurf, the game I'm drawing a lot of inspiration from for the rythym component of this game][ss2]
+![Screengrab from the eXceed series of Japanese shoot-em-ups.  This cramped screen is indicitive of the intense action I wish to invoke in Pew-Pew-WUB-WUB][ss3]
 
+[ss1]: http://www.plasmavis.com/acidwax/ReadMe_files/image001.jpg
+[ss2]: https://static.giantbomb.com/uploads/original/0/4262/191218-images.jpg
+[ss3]: http://indiegames.com/2012/08/02/120802_exceed.jpg
 
 ## Other
 
-
+If the scope of my original game concept is too large I'd be down to make a simple schmup with nice, abstract visuals.  That  
+being said, I'd like to look into libraries that could handle reading songs and generating timestamps to use in the game.
 
 ## About the Author
 
