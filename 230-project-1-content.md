@@ -44,9 +44,9 @@ Hopefully I'll be able to code this project so that it'll work on both desktop a
 ## Gameplay
 
 ### Mechanics
-  * There's pretty much only going to be two forms of fire: Primary, which will have a static rate of fire/damage amount and  
-  unlimited ammo, and Secondary/Special, which will be given to the player via pick-ups and can deal serious bonus damage if  
-  shot in time with the music.  If there's time I may also put in a speed-boost or time-slow power-up to accompany the special  
+  * There's pretty much only going to be two forms of fire: Primary, which will have a static rate of fire/damage amount and
+  unlimited ammo, and Secondary/Special, which will be given to the player via pick-ups and can deal serious bonus damage if
+  shot in time with the music.  If there's time I may also put in a speed-boost or time-slow power-up to accompany the special
   ammo.
 ### Control
   * WASD will control the player-character's movement, and left and right click on the mouse will control the primary/secondary  
