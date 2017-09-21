@@ -15,17 +15,17 @@ Hopefully I'll be able to code this project so that it'll work on both desktop a
 ## Story
 
 ### Theme
-  * I've always wanted to play out the action-adventure stories I made up in my head as a kid when listening to rock music  
-  and the key concept there was having the real adrenaline-pumping moments happen on-beat, with trailing action going on in  
+  * I've always wanted to play out the action-adventure stories I made up in my head as a kid when listening to rock music
+  and the key concept there was having the real adrenaline-pumping moments happen on-beat, with trailing action going on in
   between the beats.
 ### Mood
-  * Generally the mood of this game will be excitement, with a little bit a fear sprinkled in the really intense moments when  
+  * Generally the mood of this game will be excitement, with a little bit a fear sprinkled in the really intense moments when
   the player struggles to keep up with his opponents, who are also taking advantage of the rythym-based power-ups.
 ### Narrative
-  * Pew-Pew-WUB-WUB progresses in a linear fassion, with the player defeating waves of enemies along with a boss enemy that  
+  * Pew-Pew-WUB-WUB progresses in a linear fassion, with the player defeating waves of enemies along with a boss enemy that
   comes along at the peak chorus in each song played.
 ### Premise
-  * There's not too much of a plot in this game, similar to Audiosurf and most shoot-em-ups.  You're on the left side of the  
+  * There's not too much of a plot in this game, similar to Audiosurf and most shoot-em-ups.  You're on the left side of the
   screen, there's enemies flying at and shooting you from the right side of the screen, and the background is going to be
   a trippy music visualizer a-la Windows Media Player; the motivation mostly comes from the adrenaline rush the music should
   give the player while they're blasting badies.
